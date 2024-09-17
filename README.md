@@ -11,8 +11,8 @@ Seresa Ecommerce es una aplicación web de comercio electrónico desarrollada co
 - [Estructura del Código](#estructura-del-código)
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
+
 
 ## Características
 
