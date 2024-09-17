@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Asegúrate de agregar esto a tu archivo CSS global o CSS módulo */
+.btn-whatsapp {
+  position: fixed;
+  bottom: 20px; /* Distancia desde el fondo de la pantalla */
+  right: 20px; /* Distancia desde el borde derecho de la pantalla */
+  z-index: 1000; /* Asegúrate de que el botón esté sobre otros elementos */
+}
+
+.btn-whatsapp img {
+  width: 75px; /* Ajusta el tamaño del botón según tus necesidades */
+  height: auto; /* Mantiene la proporción del botón */
+  border: none; /* Elimina el borde si es necesario */
+}
